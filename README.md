@@ -1,6 +1,6 @@
 # Brick Hill Patched
 
-This program allows you to open the Brick Hill Workshop created with Godot Engine.
+This script allows you to play the new Brick Hill Workshop made with Godot Engine offline.
 
 [Click here](https://github.com/Alyxsqrd/WTBArchiver/releases/latest) to download the latest version.
 
