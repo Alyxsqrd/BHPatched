@@ -1,6 +1,8 @@
 # Brick Hill Patched
 
-This program allows you to open the Brick Hill Workshop created with Godot Engine. [Click here](https://github.com/Alyxsqrd/WTBArchiver/releases/latest) to download the latest version.
+This program allows you to open the Brick Hill Workshop created with Godot Engine.
+
+[Click here](https://github.com/Alyxsqrd/WTBArchiver/releases/latest) to download the latest version.
 
 ## Modifications
 
@@ -10,7 +12,7 @@ This program allows you to open the Brick Hill Workshop created with Godot Engin
 
 -   [x] Completely removed the `bin` folder, this script makes those spooky binaries useless.
 
--   [ ] Normally, I would've made a built-in HTTP proxy for this sort of project... but since the official APIs are still online (as of now) and the game is 69% unfinished anyways, this won't be necessary until the inevitable shutdown happens.
+-   [ ] Normally, I would've made a built-in HTTP proxy for this sort of project... but since the official APIs are still online (as of now) and the game is 69% unfinished, this won't be necessary until the inevitable shutdown happens.
 
 ## Credits
 
