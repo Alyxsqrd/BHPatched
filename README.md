@@ -2,7 +2,7 @@
 
 This script allows you to play the new Brick Hill Workshop made with Godot Engine offline.
 
-[Click here](https://github.com/Alyxsqrd/WTBArchiver/releases/latest) to download the latest version.
+[Click here](https://github.com/Alyxsqrd/BHPatched/releases/latest) to download the latest version.
 
 ## Modifications
 
